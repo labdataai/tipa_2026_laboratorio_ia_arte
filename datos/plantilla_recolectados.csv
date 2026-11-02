@@ -1,0 +1,2 @@
+id,fecha,hora,lugar,tipo,archivo,descripcion,variable,valor,registro,criterio
+1,2026-11-02,10:40,pasillo planta baja,conteo,,personas que cruzan el pasillo en 10 minutos,personas,23,Equipo 3,contamos solo a quienes cruzan de punta a punta
